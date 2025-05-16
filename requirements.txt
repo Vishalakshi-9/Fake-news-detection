@@ -2,4 +2,5 @@ Flask
 scikit-learn
 newspaper3k
 nltk
+lxml_html_clean
 gunicorn
